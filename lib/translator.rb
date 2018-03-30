@@ -15,6 +15,7 @@ def load_library(file)
     variable["get_meaning"][value[1]] = key
 
   end
+  binding.pry
 variable
 end
 
